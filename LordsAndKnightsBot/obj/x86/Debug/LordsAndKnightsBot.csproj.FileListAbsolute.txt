@@ -1,0 +1,28 @@
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.Form1.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.Properties.Resources.resources
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\bin\Debug\LordsAndKnightsBot.exe.config
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\bin\Debug\LordsAndKnightsBot.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\bin\Debug\LordsAndKnightsBot.pdb
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.exe
+C:\Users\Hiroyuki\AppData\Local\Temporary Projects\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.pdb
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\bin\Debug\LordsAndKnightsBot.exe.config
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.exe
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.pdb
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\bin\Debug\LordsAndKnightsBot.exe
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\bin\Debug\LordsAndKnightsBot.pdb
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.Main.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.Properties.Resources.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.Profile.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.changeResources.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.Messages.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.SettingsForm.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.RecruitUnitForm.resources
+C:\Users\Hiroyuki\Documents\Codes\LordsAndKnightsBot\LordsAndKnightsBot\obj\x86\Debug\LordsAndKnightsBot.NewMessageForm.resources
